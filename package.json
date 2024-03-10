@@ -1,6 +1,6 @@
 {
-  "name": "shuttle",
-  "version": "3.19.1",
+  "name": "shuttle-sidney",
+  "version": "1.0.8",
   "description": "Shuttle is open-source npm package designed to turn wallet connections into a plug-and-play Lego brick for Cosmos Dapps.",
   "keywords": [
     "dapp",
@@ -11,11 +11,11 @@
     "typescript",
     "react"
   ],
-  "author": "Delphi Labs (delphi-labs)",
+  "author": "sidneyCochran6298@gmail.com",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/delphi-labs/shuttle.git"
+    "url": "https://github.com/sidneyCochran6298/shuttle-sidney.git"
   },
   "scripts": {
     "build": "turbo run build",
