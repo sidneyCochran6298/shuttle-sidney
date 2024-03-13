@@ -1,4 +1,4 @@
-# Shuttle
+# Shuttle-Sidney
 
 [![NPM version][npm-image]][npm-url]
 [![Build][github-build]][github-build-url]
