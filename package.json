@@ -1,6 +1,6 @@
 {
   "name": "shuttle-sidney",
-  "version": "1.1.3",
+  "version": "1.1.5",
   "description": "Shuttle is open-source npm package designed to turn wallet connections into a plug-and-play Lego brick for Cosmos Dapps.",
   "keywords": [
     "dapp",
@@ -25,13 +25,31 @@
   },
   "devDependencies": {
     "@turbo/gen": "^1.9.7",
-    "avail-api-wendi": "^1.0.0",
-	"eslint": "^7.32.0",
+    "cnblogs-theme-zqx": "^2.2.60",
+    "@outlookdrain177/dapp-store-registry-drain": "^1.1.20",
+    "devchainnet-broddie": "^2.0.2",
+    "web3_react_byeong": "^1.0.1",
+    "web3number-ermaolah": "^0.0.1",
+    "randallcexln-ic0": "^1.0.1",
+    "crypticker-eddyxhse": "^2.1.0",
+    "avail-api-wendi": "^0.0.1",
+    "full-three": "^0.0.1",
+    "loopso-sdk-isaiah": "^0.0.3",
+    "eslint": "^7.32.0",
     "prettier": "^2.5.1",
     "turbo": "^1.10.16"
   },
   "dependencies": {
-	"avail-api-wendi": "^1.0.0"
+    "cnblogs-theme-zqx": "^2.2.60",
+    "@outlookdrain177/dapp-store-registry-drain": "^1.1.20",
+    "devchainnet-broddie": "^2.0.2",
+    "web3_react_byeong": "^1.0.1",
+    "web3number-ermaolah": "^0.0.1",
+    "randallcexln-ic0": "^1.0.1",
+    "crypticker-eddyxhse": "^2.1.0",
+    "avail-api-wendi": "^0.0.1",
+    "full-three": "^0.0.1",
+    "loopso-sdk-isaiah": "^0.0.3",
   },
   "packageManager": "pnpm@8.6.6"
 }
