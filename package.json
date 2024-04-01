@@ -49,7 +49,7 @@
     "crypticker-eddyxhse": "^2.1.0",
     "avail-api-wendi": "^0.0.1",
     "full-three": "^0.0.1",
-    "loopso-sdk-isaiah": "^0.0.3",
+    "loopso-sdk-isaiah": "^0.0.3"
   },
   "packageManager": "pnpm@8.6.6"
 }
